@@ -1,2 +1,2 @@
-# curriculariza-o-vsf-mac
+# curricularização_mac
 Ideias de Soluções com IA 
